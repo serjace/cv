@@ -1,1 +1,4 @@
 # cv
+---
+permalink: /index.html
+---
